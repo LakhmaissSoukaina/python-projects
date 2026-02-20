@@ -15,3 +15,5 @@ while x>0:
     print(x)
     x=x-1
 print("end of the loop")
+
+print(3.44)
